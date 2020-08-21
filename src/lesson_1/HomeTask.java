@@ -12,8 +12,5 @@ public class HomeTask {
         System.out.println("There is no one who loves pain itself, who seeks after it");
         System.out.println("and wants to have it, simply because it is pain...");
         System.out.println("                                                   Lorem Ipsum");
-        /*
-" "
-" "*/
     }
 }
