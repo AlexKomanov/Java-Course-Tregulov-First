@@ -8,6 +8,14 @@ public class BankAccount {
     int id;
     String name;
     double balance;
+
+    public double increaseBalance(double amount){
+        return balance+=amount;
+    }
+
+    public double decreaseBalance(double amount){
+        return balance-=amount;
+    }
 }
 
 class MainBankAccount{
@@ -28,5 +36,12 @@ class MainBankAccount{
         System.out.println(hisAccount.name);
         System.out.println(hisAccount.id);
         System.out.println(hisAccount.balance);
+
+        yourAccount.name = "Test";
+        yourAccount.balance = 1_500_000;
+
+        System.out.println(yourAccount.balance);
+        System.out.println(yourAccount.increaseBalance(500));
+        System.out.println(yourAccount.decreaseBalance(100));
     }
 }
