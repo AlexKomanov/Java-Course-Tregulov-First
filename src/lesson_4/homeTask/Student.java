@@ -13,24 +13,37 @@ public class Student {
     double averageEconomy;
     double averageLanguage;
 
+    public Student(int cardId, String firstName, String lastName, int year, double averageMath, double averageEconomy, double averageLanguage) {
+        this.cardId = cardId;
+        this.firstName = firstName;
+        this.lastName = lastName;
+        this.year = year;
+        this.averageMath = averageMath;
+        this.averageEconomy = averageEconomy;
+        this.averageLanguage = averageLanguage;
+    }
+
+    public Student(int cardId, String firstName, String lastName, int year) {
+        this.cardId = cardId;
+        this.firstName = firstName;
+        this.lastName = lastName;
+        this.year = year;
+    }
+
+    public Student() {
+    }
 }
 
 class StudentTest{
     public static void main(String[] args) {
 
-        Student firstStudent = new Student();
-        Student secondStudent = new Student();
+        Student firstStudent = new Student(10, "Andrei", "Andrei", 2020);
+        Student secondStudent = new Student(10, "Mike", "Mike", 2020, 81, 81,90);
         Student thirdStudent = new Student();
 
-        firstStudent.firstName = "Andrei";
         firstStudent.averageMath = 57;
         firstStudent.averageLanguage = 68;
         firstStudent.averageEconomy = 100;
-
-        secondStudent.firstName = "Mike";
-        secondStudent.averageMath = 81;
-        secondStudent.averageLanguage = 81;
-        secondStudent.averageEconomy = 90;
 
 
         thirdStudent.firstName = "Bruce";
