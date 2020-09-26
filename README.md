@@ -8,4 +8,5 @@ Lesson 5 - Objects, Methods, Constructor.
 Lesson 6 - Overloading, '.this'.   
 Lesson 7 - Packages, Access Modifiers.   
 Lesson 8 - Modifiers 'final', 'static". Constant.   
-Lesson 9 - 
+Lesson 9 - Scope of variables.   
+Lesson 10 - 
