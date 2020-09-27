@@ -16,7 +16,7 @@ public class Car {
 
     private String color;
     private String engine;
-    static int count;
+    public static int count;
 
     public Car(String color, String engine) {
         this.count++;
