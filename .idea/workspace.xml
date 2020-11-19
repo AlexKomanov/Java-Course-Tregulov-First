@@ -2,10 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="991d5382-1f36-4c86-a22d-a87a3372cff8" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/lesson_12/homeTask/HomeTask.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lesson_13/Grade.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/lesson_12/carTask/Ternary.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lesson_12/carTask/Ternary.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -41,7 +39,7 @@
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="settings.editor.selected.configurable" value="preferences.editor" />
   </component>
-  <component name="RunManager" selected="Application.HomeTask">
+  <component name="RunManager" selected="Application.Grade">
     <configuration name="CarTest (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="lesson_12.carTask.CarTest" />
       <module name="Java-Course-Tregulov-First" />
@@ -68,12 +66,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="HomeTask" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="lesson_12.homeTask.HomeTask" />
+    <configuration name="Grade" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="lesson_13.Grade" />
       <module name="Java-Course-Tregulov-First" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="lesson_12.homeTask.*" />
+          <option name="PATTERN" value="lesson_13.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -81,12 +79,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Lesson12" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="lesson_12.Lesson12" />
+    <configuration name="HomeTask" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="lesson_12.homeTask.HomeTask" />
       <module name="Java-Course-Tregulov-First" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="lesson_12.*" />
+          <option name="PATTERN" value="lesson_12.homeTask.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -122,11 +120,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Grade" />
         <item itemvalue="Application.HomeTask" />
         <item itemvalue="Application.Ternary" />
         <item itemvalue="Application.Equals" />
         <item itemvalue="Application.CarTest (1)" />
-        <item itemvalue="Application.Lesson12" />
       </list>
     </recent_temporary>
   </component>
@@ -142,7 +140,7 @@
       <option name="presentableId" value="Default" />
       <updated>1597929948755</updated>
       <workItem from="1601114504767" duration="1152000" />
-      <workItem from="1605625129429" duration="6753000" />
+      <workItem from="1605625129429" duration="9499000" />
     </task>
     <task id="LOCAL-00001" summary="First Whole Commit">
       <created>1597930219063</created>
@@ -235,7 +233,21 @@
       <option name="project" value="LOCAL" />
       <updated>1605732963971</updated>
     </task>
-    <option name="localTasksCounter" value="14" />
+    <task id="LOCAL-00014" summary="Lesson 12 - Added home work class">
+      <created>1605757518985</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1605757518985</updated>
+    </task>
+    <task id="LOCAL-00015" summary="Lesson 12 - Added description to the README file.">
+      <created>1605757614096</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1605757614096</updated>
+    </task>
+    <option name="localTasksCounter" value="16" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -280,46 +292,48 @@
     <MESSAGE value="Lesson 8" />
     <MESSAGE value="Lesson 10" />
     <MESSAGE value="Lesson 12 - If,Else, ternary operator." />
-    <option name="LAST_COMMIT_MESSAGE" value="Lesson 12 - If,Else, ternary operator." />
+    <MESSAGE value="Lesson 12 - Added home work class" />
+    <MESSAGE value="Lesson 12 - Added description to the README file." />
+    <option name="LAST_COMMIT_MESSAGE" value="Lesson 12 - Added description to the README file." />
   </component>
   <component name="WindowStateProjectService">
     <state x="-3067" y="221" key="#com.intellij.ide.util.MemberChooser" timestamp="1605756876498">
       <screen x="-3840" y="-90" width="1920" height="1177" />
     </state>
     <state x="-3067" y="221" key="#com.intellij.ide.util.MemberChooser/-1920.-90.1920.1177/-3840.-90.1920.1177/0.23.1440.814@-3840.-90.1920.1177" timestamp="1605756876498" />
-    <state x="-3332" y="74" key="CommitChangelistDialog2" timestamp="1605732963841">
+    <state x="-3332" y="74" key="CommitChangelistDialog2" timestamp="1605757614022">
       <screen x="-3840" y="-90" width="1920" height="1177" />
     </state>
-    <state x="-3332" y="74" key="CommitChangelistDialog2/-1920.-90.1920.1177/-3840.-90.1920.1177/0.23.1440.814@-3840.-90.1920.1177" timestamp="1605732963841" />
-    <state width="1878" height="329" key="GridCell.Tab.0.bottom" timestamp="1605756483903">
+    <state x="-3332" y="74" key="CommitChangelistDialog2/-1920.-90.1920.1177/-3840.-90.1920.1177/0.23.1440.814@-3840.-90.1920.1177" timestamp="1605757614022" />
+    <state width="1878" height="329" key="GridCell.Tab.0.bottom" timestamp="1605759331517">
       <screen x="-3840" y="-90" width="1920" height="1177" />
     </state>
-    <state width="1878" height="329" key="GridCell.Tab.0.bottom/-1920.-90.1920.1177/-3840.-90.1920.1177/0.23.1440.814@-3840.-90.1920.1177" timestamp="1605756483903" />
+    <state width="1878" height="329" key="GridCell.Tab.0.bottom/-1920.-90.1920.1177/-3840.-90.1920.1177/0.23.1440.814@-3840.-90.1920.1177" timestamp="1605759331517" />
     <state width="1877" height="203" key="GridCell.Tab.0.bottom/-1920.0.1536.832/0.0.1920.1040/1920.-110.1920.1160@1920.-110.1920.1160" timestamp="1601115724951" />
-    <state width="1878" height="329" key="GridCell.Tab.0.center" timestamp="1605756483902">
+    <state width="1878" height="329" key="GridCell.Tab.0.center" timestamp="1605759331515">
       <screen x="-3840" y="-90" width="1920" height="1177" />
     </state>
-    <state width="1878" height="329" key="GridCell.Tab.0.center/-1920.-90.1920.1177/-3840.-90.1920.1177/0.23.1440.814@-3840.-90.1920.1177" timestamp="1605756483902" />
+    <state width="1878" height="329" key="GridCell.Tab.0.center/-1920.-90.1920.1177/-3840.-90.1920.1177/0.23.1440.814@-3840.-90.1920.1177" timestamp="1605759331515" />
     <state width="1877" height="203" key="GridCell.Tab.0.center/-1920.0.1536.832/0.0.1920.1040/1920.-110.1920.1160@1920.-110.1920.1160" timestamp="1601115724951" />
-    <state width="1878" height="329" key="GridCell.Tab.0.left" timestamp="1605756483901">
+    <state width="1878" height="329" key="GridCell.Tab.0.left" timestamp="1605759331515">
       <screen x="-3840" y="-90" width="1920" height="1177" />
     </state>
-    <state width="1878" height="329" key="GridCell.Tab.0.left/-1920.-90.1920.1177/-3840.-90.1920.1177/0.23.1440.814@-3840.-90.1920.1177" timestamp="1605756483901" />
+    <state width="1878" height="329" key="GridCell.Tab.0.left/-1920.-90.1920.1177/-3840.-90.1920.1177/0.23.1440.814@-3840.-90.1920.1177" timestamp="1605759331515" />
     <state width="1877" height="203" key="GridCell.Tab.0.left/-1920.0.1536.832/0.0.1920.1040/1920.-110.1920.1160@1920.-110.1920.1160" timestamp="1601115724951" />
-    <state width="1878" height="329" key="GridCell.Tab.0.right" timestamp="1605756483903">
+    <state width="1878" height="329" key="GridCell.Tab.0.right" timestamp="1605759331516">
       <screen x="-3840" y="-90" width="1920" height="1177" />
     </state>
-    <state width="1878" height="329" key="GridCell.Tab.0.right/-1920.-90.1920.1177/-3840.-90.1920.1177/0.23.1440.814@-3840.-90.1920.1177" timestamp="1605756483903" />
+    <state width="1878" height="329" key="GridCell.Tab.0.right/-1920.-90.1920.1177/-3840.-90.1920.1177/0.23.1440.814@-3840.-90.1920.1177" timestamp="1605759331516" />
     <state width="1877" height="203" key="GridCell.Tab.0.right/-1920.0.1536.832/0.0.1920.1040/1920.-110.1920.1160@1920.-110.1920.1160" timestamp="1601115724951" />
     <state x="-3379" y="138" key="SettingsEditor" timestamp="1605625220910">
       <screen x="-3840" y="-90" width="1920" height="1177" />
     </state>
     <state x="-3379" y="138" key="SettingsEditor/-1920.-90.1920.1177/-3840.-90.1920.1177/0.23.1440.814@-3840.-90.1920.1177" timestamp="1605625220910" />
     <state x="2381" y="115" key="SettingsEditor/-1920.0.1536.832/0.0.1920.1040/1920.-110.1920.1160@1920.-110.1920.1160" timestamp="1601114590091" />
-    <state x="-3280" y="238" key="Vcs.Push.Dialog.v2" timestamp="1605732967474">
+    <state x="-3280" y="238" key="Vcs.Push.Dialog.v2" timestamp="1605757521020">
       <screen x="-3840" y="-90" width="1920" height="1177" />
     </state>
-    <state x="-3280" y="238" key="Vcs.Push.Dialog.v2/-1920.-90.1920.1177/-3840.-90.1920.1177/0.23.1440.814@-3840.-90.1920.1177" timestamp="1605732967474" />
+    <state x="-3280" y="238" key="Vcs.Push.Dialog.v2/-1920.-90.1920.1177/-3840.-90.1920.1177/0.23.1440.814@-3840.-90.1920.1177" timestamp="1605757521020" />
   </component>
   <component name="masterDetails">
     <states>

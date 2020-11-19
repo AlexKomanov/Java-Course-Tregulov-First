@@ -12,4 +12,5 @@ Lesson 9 - Scope of variables.
 Lesson 10 - Imports, Comments.   
 Lesson 11 - Primitive Skills.  
 Lesson 12 - If, Else, ternary operator.   
-Lesson 13 - 
+Lesson 13 - Switch case.   
+Lesson 14 - 
