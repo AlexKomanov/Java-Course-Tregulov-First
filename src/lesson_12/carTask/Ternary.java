@@ -9,5 +9,8 @@ public class Ternary {
 
         String answer = (a > b) ? ("A is less") : ("A is greater");
         System.out.println(answer);
+
+        int maximum = (a > b) ? a : b;
+        System.out.println("The maximum is = " + maximum);
     }
 }

@@ -10,4 +10,5 @@ Lesson 7 - Packages, Access Modifiers.
 Lesson 8 - Modifiers 'final', 'static". Constant.   
 Lesson 9 - Scope of variables.   
 Lesson 10 - Imports, Comments.   
-Lesson 11 - 
+Lesson 11 - Primitive Skills
+Lesson 12 - if, else
