@@ -2,8 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="991d5382-1f36-4c86-a22d-a87a3372cff8" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/lesson_14/Clock.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lesson_14/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lesson_15/DoWhile.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lesson_15/ForDoWhile.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lesson_15/WhileLoop.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
@@ -41,13 +42,13 @@
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="settings.editor.selected.configurable" value="preferences.editor" />
   </component>
-  <component name="RunManager" selected="Application.Main">
-    <configuration name="Clock" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="lesson_14.Clock" />
+  <component name="RunManager" selected="Application.ForDoWhile">
+    <configuration name="ClockDoWhile" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="lesson_15.ClockDoWhile" />
       <module name="Java-Course-Tregulov-First" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="lesson_14.*" />
+          <option name="PATTERN" value="lesson_15.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -55,12 +56,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Grade" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="lesson_13.Grade" />
+    <configuration name="DoWhile" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="lesson_15.DoWhile" />
       <module name="Java-Course-Tregulov-First" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="lesson_13.*" />
+          <option name="PATTERN" value="lesson_15.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -68,12 +69,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="HomeTask" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="lesson_12.homeTask.HomeTask" />
+    <configuration name="ForDoWhile" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="lesson_15.ForDoWhile" />
       <module name="Java-Course-Tregulov-First" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="lesson_12.homeTask.*" />
+          <option name="PATTERN" value="lesson_15.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -81,12 +82,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="lesson_14.Main" />
+    <configuration name="WhileLoop" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="lesson_15.WhileLoop" />
       <module name="Java-Course-Tregulov-First" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="lesson_14.*" />
+          <option name="PATTERN" value="lesson_15.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -94,12 +95,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Ternary" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="lesson_12.carTask.Ternary" />
+    <configuration name="WhileLoopWithCondition" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="lesson_15.WhileLoopWithCondition" />
       <module name="Java-Course-Tregulov-First" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="lesson_12.carTask.*" />
+          <option name="PATTERN" value="lesson_15.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -122,11 +123,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Main" />
-        <item itemvalue="Application.Clock" />
-        <item itemvalue="Application.Grade" />
-        <item itemvalue="Application.HomeTask" />
-        <item itemvalue="Application.Ternary" />
+        <item itemvalue="Application.ForDoWhile" />
+        <item itemvalue="Application.ClockDoWhile" />
+        <item itemvalue="Application.DoWhile" />
+        <item itemvalue="Application.WhileLoopWithCondition" />
+        <item itemvalue="Application.WhileLoop" />
       </list>
     </recent_temporary>
   </component>
@@ -142,7 +143,7 @@
       <option name="presentableId" value="Default" />
       <updated>1597929948755</updated>
       <workItem from="1601114504767" duration="1152000" />
-      <workItem from="1605625129429" duration="13161000" />
+      <workItem from="1605625129429" duration="17292000" />
     </task>
     <task id="LOCAL-00001" summary="First Whole Commit">
       <created>1597930219063</created>
@@ -256,7 +257,14 @@
       <option name="project" value="LOCAL" />
       <updated>1605760662959</updated>
     </task>
-    <option name="localTasksCounter" value="17" />
+    <task id="LOCAL-00017" summary="Lesson 14 - For loop">
+      <created>1605804361604</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1605804361604</updated>
+    </task>
+    <option name="localTasksCounter" value="18" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -304,50 +312,57 @@
     <MESSAGE value="Lesson 12 - Added home work class" />
     <MESSAGE value="Lesson 12 - Added description to the README file." />
     <MESSAGE value="Lesson 13 - Switch case" />
-    <option name="LAST_COMMIT_MESSAGE" value="Lesson 13 - Switch case" />
+    <MESSAGE value="Lesson 14 - For loop" />
+    <option name="LAST_COMMIT_MESSAGE" value="Lesson 14 - For loop" />
   </component>
   <component name="WindowStateProjectService">
     <state x="-3067" y="221" key="#com.intellij.ide.util.MemberChooser" timestamp="1605756876498">
       <screen x="-3840" y="-90" width="1920" height="1177" />
     </state>
     <state x="-3067" y="221" key="#com.intellij.ide.util.MemberChooser/-1920.-90.1920.1177/-3840.-90.1920.1177/0.23.1440.814@-3840.-90.1920.1177" timestamp="1605756876498" />
-    <state x="-3332" y="74" key="CommitChangelistDialog2" timestamp="1605760662882">
+    <state x="-3332" y="74" key="CommitChangelistDialog2" timestamp="1605804361523">
       <screen x="-3840" y="-90" width="1920" height="1177" />
     </state>
     <state x="-3332" y="74" key="CommitChangelistDialog2/-1920.-90.1920.1177/-3840.-90.1920.1177/0.23.1440.814@-3840.-90.1920.1177" timestamp="1605760662882" />
-    <state width="1878" height="329" key="GridCell.Tab.0.bottom" timestamp="1605803627762">
+    <state x="-3332" y="74" key="CommitChangelistDialog2/-1920.-90.1920.1177/-3840.-90.1920.1177/0.23.1440.821@-3840.-90.1920.1177" timestamp="1605804361523" />
+    <state width="1878" height="329" key="GridCell.Tab.0.bottom" timestamp="1605843191331">
       <screen x="-3840" y="-90" width="1920" height="1177" />
     </state>
     <state width="1878" height="329" key="GridCell.Tab.0.bottom/-1920.-90.1920.1177/-3840.-90.1920.1177/0.23.1440.814@-3840.-90.1920.1177" timestamp="1605800470153" />
-    <state width="1878" height="329" key="GridCell.Tab.0.bottom/-1920.-90.1920.1177/-3840.-90.1920.1177/0.23.1440.821@-3840.-90.1920.1177" timestamp="1605803627762" />
+    <state width="1878" height="329" key="GridCell.Tab.0.bottom/-1920.-90.1920.1177/-3840.-90.1920.1177/0.23.1440.821@-3840.-90.1920.1177" timestamp="1605843191331" />
     <state width="1877" height="203" key="GridCell.Tab.0.bottom/-1920.0.1536.832/0.0.1920.1040/1920.-110.1920.1160@1920.-110.1920.1160" timestamp="1601115724951" />
-    <state width="1878" height="329" key="GridCell.Tab.0.center" timestamp="1605803627762">
+    <state width="1878" height="329" key="GridCell.Tab.0.center" timestamp="1605843191330">
       <screen x="-3840" y="-90" width="1920" height="1177" />
     </state>
     <state width="1878" height="329" key="GridCell.Tab.0.center/-1920.-90.1920.1177/-3840.-90.1920.1177/0.23.1440.814@-3840.-90.1920.1177" timestamp="1605800470151" />
-    <state width="1878" height="329" key="GridCell.Tab.0.center/-1920.-90.1920.1177/-3840.-90.1920.1177/0.23.1440.821@-3840.-90.1920.1177" timestamp="1605803627762" />
+    <state width="1878" height="329" key="GridCell.Tab.0.center/-1920.-90.1920.1177/-3840.-90.1920.1177/0.23.1440.821@-3840.-90.1920.1177" timestamp="1605843191330" />
     <state width="1877" height="203" key="GridCell.Tab.0.center/-1920.0.1536.832/0.0.1920.1040/1920.-110.1920.1160@1920.-110.1920.1160" timestamp="1601115724951" />
-    <state width="1878" height="329" key="GridCell.Tab.0.left" timestamp="1605803627761">
+    <state width="1878" height="329" key="GridCell.Tab.0.left" timestamp="1605843191329">
       <screen x="-3840" y="-90" width="1920" height="1177" />
     </state>
     <state width="1878" height="329" key="GridCell.Tab.0.left/-1920.-90.1920.1177/-3840.-90.1920.1177/0.23.1440.814@-3840.-90.1920.1177" timestamp="1605800470151" />
-    <state width="1878" height="329" key="GridCell.Tab.0.left/-1920.-90.1920.1177/-3840.-90.1920.1177/0.23.1440.821@-3840.-90.1920.1177" timestamp="1605803627761" />
+    <state width="1878" height="329" key="GridCell.Tab.0.left/-1920.-90.1920.1177/-3840.-90.1920.1177/0.23.1440.821@-3840.-90.1920.1177" timestamp="1605843191329" />
     <state width="1877" height="203" key="GridCell.Tab.0.left/-1920.0.1536.832/0.0.1920.1040/1920.-110.1920.1160@1920.-110.1920.1160" timestamp="1601115724951" />
-    <state width="1878" height="329" key="GridCell.Tab.0.right" timestamp="1605803627762">
+    <state width="1878" height="329" key="GridCell.Tab.0.right" timestamp="1605843191331">
       <screen x="-3840" y="-90" width="1920" height="1177" />
     </state>
     <state width="1878" height="329" key="GridCell.Tab.0.right/-1920.-90.1920.1177/-3840.-90.1920.1177/0.23.1440.814@-3840.-90.1920.1177" timestamp="1605800470152" />
-    <state width="1878" height="329" key="GridCell.Tab.0.right/-1920.-90.1920.1177/-3840.-90.1920.1177/0.23.1440.821@-3840.-90.1920.1177" timestamp="1605803627762" />
+    <state width="1878" height="329" key="GridCell.Tab.0.right/-1920.-90.1920.1177/-3840.-90.1920.1177/0.23.1440.821@-3840.-90.1920.1177" timestamp="1605843191331" />
     <state width="1877" height="203" key="GridCell.Tab.0.right/-1920.0.1536.832/0.0.1920.1040/1920.-110.1920.1160@1920.-110.1920.1160" timestamp="1601115724951" />
     <state x="-3379" y="138" key="SettingsEditor" timestamp="1605625220910">
       <screen x="-3840" y="-90" width="1920" height="1177" />
     </state>
     <state x="-3379" y="138" key="SettingsEditor/-1920.-90.1920.1177/-3840.-90.1920.1177/0.23.1440.814@-3840.-90.1920.1177" timestamp="1605625220910" />
     <state x="2381" y="115" key="SettingsEditor/-1920.0.1536.832/0.0.1920.1040/1920.-110.1920.1160@1920.-110.1920.1160" timestamp="1601114590091" />
-    <state x="-3280" y="238" key="Vcs.Push.Dialog.v2" timestamp="1605760666448">
+    <state width="500" height="445" key="SwitcherDM" timestamp="1605842827669">
+      <screen x="-3840" y="-90" width="1920" height="1177" />
+    </state>
+    <state width="500" height="445" key="SwitcherDM/-1920.-90.1920.1177/-3840.-90.1920.1177/0.23.1440.821@-3840.-90.1920.1177" timestamp="1605842827669" />
+    <state x="-3280" y="238" key="Vcs.Push.Dialog.v2" timestamp="1605807506901">
       <screen x="-3840" y="-90" width="1920" height="1177" />
     </state>
     <state x="-3280" y="238" key="Vcs.Push.Dialog.v2/-1920.-90.1920.1177/-3840.-90.1920.1177/0.23.1440.814@-3840.-90.1920.1177" timestamp="1605760666448" />
+    <state x="-3280" y="238" key="Vcs.Push.Dialog.v2/-1920.-90.1920.1177/-3840.-90.1920.1177/0.23.1440.821@-3840.-90.1920.1177" timestamp="1605807506901" />
   </component>
   <component name="masterDetails">
     <states>

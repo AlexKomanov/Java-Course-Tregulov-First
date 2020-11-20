@@ -14,4 +14,5 @@ Lesson 11 - Primitive Skills.
 Lesson 12 - If, Else, ternary operator.   
 Lesson 13 - Switch case.   
 Lesson 14 - For loop, break, continue.   
-Lesson 15 - 
+Lesson 15 - While loop.   
+Lesson 16 - 
