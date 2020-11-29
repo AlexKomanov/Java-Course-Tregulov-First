@@ -15,4 +15,8 @@ Lesson 12 - If, Else, ternary operator.
 Lesson 13 - Switch case.   
 Lesson 14 - For loop, break, continue.   
 Lesson 15 - While loop.   
-Lesson 16 - 
+Lesson 16 - String.   
+Lesson 17 - StringBuilder.   
+Lesson 18 - Arrays.   
+Lesson 19 -    
+ 
