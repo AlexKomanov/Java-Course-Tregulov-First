@@ -32,6 +32,10 @@ public class Methods {
         StringBuilder reverse = stringBuilder.reverse();
         System.out.println("reverse = " + reverse);
 
+        String s1 = new String(stringBuilder);
+        StringBuffer stringBuffer = new StringBuffer("Aaaaaaabbbbbbcccc");
+        String s2 = new String(stringBuffer);
+
 
     }
 }

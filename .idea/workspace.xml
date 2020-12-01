@@ -20,10 +20,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="991d5382-1f36-4c86-a22d-a87a3372cff8" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/lesson_17/Methods.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lesson_17/StringBuilderMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lesson_18/ArraysInitialization.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lesson_18/ArraysMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lesson_18/ArraysMethods.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lesson_17/Methods.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lesson_17/Methods.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -59,7 +60,33 @@
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
-  <component name="RunManager" selected="Application.Methods">
+  <component name="RunManager" selected="Application.ArraysMethods">
+    <configuration name="ArraysInitialization" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="lesson_18.ArraysInitialization" />
+      <module name="Java-Course-Tregulov-First" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="lesson_18.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ArraysMethods" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="lesson_18.ArraysMethods" />
+      <module name="Java-Course-Tregulov-First" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="lesson_18.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="EqualsCompare" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="lesson_16.EqualsCompare" />
       <module name="Java-Course-Tregulov-First" />
@@ -99,32 +126,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="StringFunctions" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="lesson_16.StringFunctions" />
-      <module name="Java-Course-Tregulov-First" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="lesson_16.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="TestString" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="lesson_16.TestString" />
-      <module name="Java-Course-Tregulov-First" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="lesson_16.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration default="true" type="ArquillianTestNG" factoryName="" nameIsGenerated="true">
       <option name="arquillianRunConfiguration">
         <value>
@@ -140,11 +141,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ArraysMethods" />
+        <item itemvalue="Application.ArraysInitialization" />
         <item itemvalue="Application.Methods" />
         <item itemvalue="Application.EqualsCompare" />
         <item itemvalue="Application.FourLines" />
-        <item itemvalue="Application.StringFunctions" />
-        <item itemvalue="Application.TestString" />
       </list>
     </recent_temporary>
   </component>
@@ -160,7 +161,7 @@
       <option name="presentableId" value="Default" />
       <updated>1597929948755</updated>
       <workItem from="1601114504767" duration="1152000" />
-      <workItem from="1605625129429" duration="29192000" />
+      <workItem from="1605625129429" duration="35380000" />
     </task>
     <task id="LOCAL-00001" summary="First Whole Commit">
       <created>1597930219063</created>
@@ -295,7 +296,14 @@
       <option name="project" value="LOCAL" />
       <updated>1606103427862</updated>
     </task>
-    <option name="localTasksCounter" value="20" />
+    <task id="LOCAL-00020" summary="Lesson 17 - StringBuilder">
+      <created>1606630434933</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1606630434933</updated>
+    </task>
+    <option name="localTasksCounter" value="21" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -346,41 +354,42 @@
     <MESSAGE value="Lesson 14 - For loop" />
     <MESSAGE value="Lesson 15 - Do, While loops" />
     <MESSAGE value="Lesson 16 - String" />
-    <option name="LAST_COMMIT_MESSAGE" value="Lesson 16 - String" />
+    <MESSAGE value="Lesson 17 - StringBuilder" />
+    <option name="LAST_COMMIT_MESSAGE" value="Lesson 17 - StringBuilder" />
   </component>
   <component name="WindowStateProjectService">
     <state x="-3067" y="221" key="#com.intellij.ide.util.MemberChooser" timestamp="1605756876498">
       <screen x="-3840" y="-90" width="1920" height="1177" />
     </state>
     <state x="-3067" y="221" key="#com.intellij.ide.util.MemberChooser/-1920.-90.1920.1177/-3840.-90.1920.1177/0.23.1440.814@-3840.-90.1920.1177" timestamp="1605756876498" />
-    <state x="-3332" y="74" key="CommitChangelistDialog2" timestamp="1606103427772">
+    <state x="-3332" y="74" key="CommitChangelistDialog2" timestamp="1606630434842">
       <screen x="-3840" y="-90" width="1920" height="1177" />
     </state>
     <state x="-3332" y="74" key="CommitChangelistDialog2/-1920.-90.1920.1177/-3840.-90.1920.1177/0.23.1440.814@-3840.-90.1920.1177" timestamp="1605760662882" />
-    <state x="-3332" y="74" key="CommitChangelistDialog2/-1920.-90.1920.1177/-3840.-90.1920.1177/0.23.1440.821@-3840.-90.1920.1177" timestamp="1606103427772" />
-    <state width="1878" height="329" key="GridCell.Tab.0.bottom" timestamp="1606119172902">
+    <state x="-3332" y="74" key="CommitChangelistDialog2/-1920.-90.1920.1177/-3840.-90.1920.1177/0.23.1440.821@-3840.-90.1920.1177" timestamp="1606630434842" />
+    <state width="1878" height="329" key="GridCell.Tab.0.bottom" timestamp="1606808994148">
       <screen x="-3840" y="-90" width="1920" height="1177" />
     </state>
     <state width="1878" height="329" key="GridCell.Tab.0.bottom/-1920.-90.1920.1177/-3840.-90.1920.1177/0.23.1440.814@-3840.-90.1920.1177" timestamp="1605800470153" />
-    <state width="1878" height="329" key="GridCell.Tab.0.bottom/-1920.-90.1920.1177/-3840.-90.1920.1177/0.23.1440.821@-3840.-90.1920.1177" timestamp="1606119172902" />
+    <state width="1878" height="329" key="GridCell.Tab.0.bottom/-1920.-90.1920.1177/-3840.-90.1920.1177/0.23.1440.821@-3840.-90.1920.1177" timestamp="1606808994148" />
     <state width="1877" height="203" key="GridCell.Tab.0.bottom/-1920.0.1536.832/0.0.1920.1040/1920.-110.1920.1160@1920.-110.1920.1160" timestamp="1601115724951" />
-    <state width="1878" height="329" key="GridCell.Tab.0.center" timestamp="1606119172901">
+    <state width="1878" height="329" key="GridCell.Tab.0.center" timestamp="1606808994147">
       <screen x="-3840" y="-90" width="1920" height="1177" />
     </state>
     <state width="1878" height="329" key="GridCell.Tab.0.center/-1920.-90.1920.1177/-3840.-90.1920.1177/0.23.1440.814@-3840.-90.1920.1177" timestamp="1605800470151" />
-    <state width="1878" height="329" key="GridCell.Tab.0.center/-1920.-90.1920.1177/-3840.-90.1920.1177/0.23.1440.821@-3840.-90.1920.1177" timestamp="1606119172901" />
+    <state width="1878" height="329" key="GridCell.Tab.0.center/-1920.-90.1920.1177/-3840.-90.1920.1177/0.23.1440.821@-3840.-90.1920.1177" timestamp="1606808994147" />
     <state width="1877" height="203" key="GridCell.Tab.0.center/-1920.0.1536.832/0.0.1920.1040/1920.-110.1920.1160@1920.-110.1920.1160" timestamp="1601115724951" />
-    <state width="1878" height="329" key="GridCell.Tab.0.left" timestamp="1606119172900">
+    <state width="1878" height="329" key="GridCell.Tab.0.left" timestamp="1606808994147">
       <screen x="-3840" y="-90" width="1920" height="1177" />
     </state>
     <state width="1878" height="329" key="GridCell.Tab.0.left/-1920.-90.1920.1177/-3840.-90.1920.1177/0.23.1440.814@-3840.-90.1920.1177" timestamp="1605800470151" />
-    <state width="1878" height="329" key="GridCell.Tab.0.left/-1920.-90.1920.1177/-3840.-90.1920.1177/0.23.1440.821@-3840.-90.1920.1177" timestamp="1606119172900" />
+    <state width="1878" height="329" key="GridCell.Tab.0.left/-1920.-90.1920.1177/-3840.-90.1920.1177/0.23.1440.821@-3840.-90.1920.1177" timestamp="1606808994147" />
     <state width="1877" height="203" key="GridCell.Tab.0.left/-1920.0.1536.832/0.0.1920.1040/1920.-110.1920.1160@1920.-110.1920.1160" timestamp="1601115724951" />
-    <state width="1878" height="329" key="GridCell.Tab.0.right" timestamp="1606119172901">
+    <state width="1878" height="329" key="GridCell.Tab.0.right" timestamp="1606808994148">
       <screen x="-3840" y="-90" width="1920" height="1177" />
     </state>
     <state width="1878" height="329" key="GridCell.Tab.0.right/-1920.-90.1920.1177/-3840.-90.1920.1177/0.23.1440.814@-3840.-90.1920.1177" timestamp="1605800470152" />
-    <state width="1878" height="329" key="GridCell.Tab.0.right/-1920.-90.1920.1177/-3840.-90.1920.1177/0.23.1440.821@-3840.-90.1920.1177" timestamp="1606119172901" />
+    <state width="1878" height="329" key="GridCell.Tab.0.right/-1920.-90.1920.1177/-3840.-90.1920.1177/0.23.1440.821@-3840.-90.1920.1177" timestamp="1606808994148" />
     <state width="1877" height="203" key="GridCell.Tab.0.right/-1920.0.1536.832/0.0.1920.1040/1920.-110.1920.1160@1920.-110.1920.1160" timestamp="1601115724951" />
     <state x="-3379" y="138" key="SettingsEditor" timestamp="1606165564646">
       <screen x="-3840" y="-90" width="1920" height="1177" />
@@ -392,11 +401,11 @@
       <screen x="-3840" y="-90" width="1920" height="1177" />
     </state>
     <state width="500" height="445" key="SwitcherDM/-1920.-90.1920.1177/-3840.-90.1920.1177/0.23.1440.821@-3840.-90.1920.1177" timestamp="1605842827669" />
-    <state x="-3280" y="238" key="Vcs.Push.Dialog.v2" timestamp="1606103431643">
+    <state x="-3280" y="238" key="Vcs.Push.Dialog.v2" timestamp="1606630439189">
       <screen x="-3840" y="-90" width="1920" height="1177" />
     </state>
     <state x="-3280" y="238" key="Vcs.Push.Dialog.v2/-1920.-90.1920.1177/-3840.-90.1920.1177/0.23.1440.814@-3840.-90.1920.1177" timestamp="1605760666448" />
-    <state x="-3280" y="238" key="Vcs.Push.Dialog.v2/-1920.-90.1920.1177/-3840.-90.1920.1177/0.23.1440.821@-3840.-90.1920.1177" timestamp="1606103431643" />
+    <state x="-3280" y="238" key="Vcs.Push.Dialog.v2/-1920.-90.1920.1177/-3840.-90.1920.1177/0.23.1440.821@-3840.-90.1920.1177" timestamp="1606630439189" />
   </component>
   <component name="masterDetails">
     <states>
