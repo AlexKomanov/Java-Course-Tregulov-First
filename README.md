@@ -18,5 +18,6 @@ Lesson 15 - While loop.
 Lesson 16 - String.   
 Lesson 17 - StringBuilder.   
 Lesson 18 - Arrays.   
-Lesson 19 -    
+Lesson 19 - VarArgs, ForEach Loop.   
+Lesson 20 - 
  
