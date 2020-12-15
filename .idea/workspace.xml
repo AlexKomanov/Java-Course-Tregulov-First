@@ -20,10 +20,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="991d5382-1f36-4c86-a22d-a87a3372cff8" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/lesson_18/SortArray.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lesson_19/ForEach.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lesson_19/ForEachStringBuilder.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lesson_19/VarArgs.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lesson_20/ArrayListIterator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lesson_20/ArrayListMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lesson_20/ArrayListMethods.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lesson_20/ArrayListWithoutType.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lesson_20/CompareArrays.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
@@ -61,13 +62,13 @@
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
-  <component name="RunManager" selected="Application.ForEachStringBuilder">
-    <configuration name="ArraysMethods" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="lesson_18.ArraysMethods" />
+  <component name="RunManager" selected="Application.ArrayListMethods">
+    <configuration name="ArrayListIterator" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="lesson_20.ArrayListIterator" />
       <module name="Java-Course-Tregulov-First" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="lesson_18.*" />
+          <option name="PATTERN" value="lesson_20.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -75,12 +76,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ForEach" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="lesson_19.ForEach" />
+    <configuration name="ArrayListMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="lesson_20.ArrayListMain" />
       <module name="Java-Course-Tregulov-First" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="lesson_19.*" />
+          <option name="PATTERN" value="lesson_20.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -88,12 +89,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ForEachStringBuilder" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="lesson_19.ForEachStringBuilder" />
+    <configuration name="ArrayListMethods" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="lesson_20.ArrayListMethods" />
       <module name="Java-Course-Tregulov-First" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="lesson_19.*" />
+          <option name="PATTERN" value="lesson_20.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -101,12 +102,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SortArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="lesson_18.SortArray" />
+    <configuration name="CompareArrays" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="lesson_20.CompareArrays" />
       <module name="Java-Course-Tregulov-First" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="lesson_18.*" />
+          <option name="PATTERN" value="lesson_20.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -114,12 +115,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="VarArgs" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="lesson_19.VarArgs" />
+    <configuration name="MainArrayList" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="lesson_20.MainArrayList" />
       <module name="Java-Course-Tregulov-First" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="lesson_19.*" />
+          <option name="PATTERN" value="lesson_20.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -140,11 +141,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.ForEachStringBuilder" />
-        <item itemvalue="Application.ForEach" />
-        <item itemvalue="Application.VarArgs" />
-        <item itemvalue="Application.SortArray" />
-        <item itemvalue="Application.ArraysMethods" />
+        <item itemvalue="Application.ArrayListMethods" />
+        <item itemvalue="Application.CompareArrays" />
+        <item itemvalue="Application.ArrayListIterator" />
+        <item itemvalue="Application.ArrayListMain" />
+        <item itemvalue="Application.MainArrayList" />
       </list>
     </recent_temporary>
   </component>
@@ -162,7 +163,7 @@
       <workItem from="1601114504767" duration="1152000" />
       <workItem from="1605625129429" duration="37820000" />
       <workItem from="1606968441001" duration="195000" />
-      <workItem from="1606968688697" duration="1761000" />
+      <workItem from="1606968688697" duration="9804000" />
     </task>
     <task id="LOCAL-00001" summary="First Whole Commit">
       <created>1597930219063</created>
@@ -311,7 +312,14 @@
       <option name="project" value="LOCAL" />
       <updated>1606824303535</updated>
     </task>
-    <option name="localTasksCounter" value="22" />
+    <task id="LOCAL-00022" summary="Lesson 19 - VarArgs, ForEach Loop.">
+      <created>1606971489200</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1606971489200</updated>
+    </task>
+    <option name="localTasksCounter" value="23" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -364,7 +372,8 @@
     <MESSAGE value="Lesson 16 - String" />
     <MESSAGE value="Lesson 17 - StringBuilder" />
     <MESSAGE value="Lesson 18 - Arrays" />
-    <option name="LAST_COMMIT_MESSAGE" value="Lesson 18 - Arrays" />
+    <MESSAGE value="Lesson 19 - VarArgs, ForEach Loop." />
+    <option name="LAST_COMMIT_MESSAGE" value="Lesson 19 - VarArgs, ForEach Loop." />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
